@@ -2,7 +2,7 @@
 
 This is a Capstone project developed through the Udacity - Introduction to Programming Nanodegree Program.
 
-![alt text] (https://github.com/SaikrishnaDandamudi/Pixel-Art-Maker/blob/master/Demo_Pixel_Art_Makert.png)
+Format: ![Alt Text](https://github.com/SaikrishnaDandamudi/Pixel-Art-Maker/blob/master/Demo_Pixel_Art_Makert.png)
 
 
 *Built with:* HTML, CSS and JavaScript.
